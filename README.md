@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Anton Roupassov-Ruiz`
+- **CCID:** `roupasso`
 
 ## References and Resources
 
